@@ -137,10 +137,12 @@ public class Journal{
                 string gen_answer = Console.ReadLine();
                 if(gen_answer.ToLower() == "over"){
                     Console.WriteLine("Your entries have been recorded to your journal.");
+                    gen_loop = false;
                     Journal_Save(filename);
                 }
                 else if(gen_answer.ToLower() == "add"){
                     Console.WriteLine("Your entries have been recorded to your journal.");
+                    gen_loop = false;
                     Journal_Append(filename);
                 }else{
                     Console.WriteLine("That is not a valid input, please try again.");
