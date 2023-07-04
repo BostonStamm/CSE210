@@ -74,7 +74,7 @@ public class Checklist : Goals{
         var _goalpoints = Console.ReadLine();
         Console.Write("How many times do you need to do your Checklist Goal?: ");
         var _goalreq = Console.ReadLine();
-        _goal = $"checklistgoal, ,{_goalname},{_goaldesc},{_goalpoints},{_goalreq},";
+        _goal = $"checklistgoal, ,{_goalname},{_goaldesc},{_goalpoints},{_goalreq},0";
         return _goal;
     }
 
