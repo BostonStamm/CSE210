@@ -34,7 +34,9 @@ public class RecordEvent{
                             _loop = false;
                         }
                     }
-                    count += 1;
+                    if(!string.IsNullOrWhiteSpace(line)){
+                        count += 1;
+                    }
                 }
                 _loop = false;
             }else if(!String.IsNullOrWhiteSpace(_choice) && int.Parse(_choice) == count){

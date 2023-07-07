@@ -27,8 +27,9 @@ public class SaveLoad{
     public static void SaveNewFile(){
         Console.WriteLine("Please enter a name for your new save: ");
         var _choice = Console.ReadLine();
-        var _overwrite = System.IO.File.ReadAllLines(_temp);
-        System.IO.File.WriteAllLines($"{_choice}.goals.csv", _overwrite);
+        var _overwrite = "score,0";
+        System.IO.File.WriteAllText($"{_choice}.goals.csv", _overwrite);
+        System.IO.File.WriteAllText(_temp, _overwrite);
         SaveAppData.Save($"{_choice}.goals.csv");
     }
 }
