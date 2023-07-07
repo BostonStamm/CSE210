@@ -1,2 +1,5 @@
-Score,0
-checklistgoal, ,abcd,abc,100,10,
+Score,2000
+checklistgoal,X,abcd,abc,100,10,10
+simplegoal,X,aaa,sss,100
+eternalgoal, ,qqq,www,1000
+negativegoal, ,eee,www,100

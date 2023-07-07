@@ -77,15 +77,15 @@ public class ChecklistEvent : RecordEvent{
             parts[6] = (int.Parse(parts[6])+1).ToString();
             if(int.Parse(parts[6]) >= int.Parse(parts[5])){
                 parts[1] = "X";
-                repstring = string.Join(",", parts);
-                repline[_count] = repstring;
-
-                string[] _currentpoints = repline[0].Split(",");
-                _addpoints = int.Parse(parts[4]);
-                var _newpoints = int.Parse(_currentpoints[1]) + _addpoints;
-                repline[0] = $"Score,{_newpoints}";
-                File.WriteAllLines("tempfile.csv", repline);
             }
+            repstring = string.Join(",", parts);
+            repline[_count] = repstring;
+
+            string[] _currentpoints = repline[0].Split(",");
+            _addpoints = int.Parse(parts[4]);
+            var _newpoints = int.Parse(_currentpoints[1]) + _addpoints;
+            repline[0] = $"Score,{_newpoints}";
+            File.WriteAllLines("tempfile.csv", repline);
         }else{
             Console.WriteLine("You've already completed this goal.");
             System.Threading.Thread.Sleep(1500);
