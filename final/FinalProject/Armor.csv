@@ -1,0 +1,49 @@
+﻿Aura Module I,0,0 lbs,Implant,Light Armor|High-Tech Armor,10 GP,Common,Resistant(1)
+Hide Armor,1,12 lbs,Armor,Medium Armor,10 GP,Common, 
+Padded Armor,1,8 lbs,Armor,Light Armor,5 GP,Common,Stiff
+Robes,1,1 lbs,Armor,Magic Armor,10 GP,Common,Resistant(1)
+Shield Module I,1,0 lbs,Implant,Light Armor|High-Tech Armor,10 GP,Common, 
+Aura Module II,0,0 lbs,Implant,Light Armor|High-Tech Armor,30 GP,Uncommon,Resistant(2)
+Aura Module III,1,0 lbs,Implant,Medium Armor|High-Tech Armor,100 GP,Uncommon,Resistant(3)
+Chain Shirt,2,20 lbs,Armor,Medium Armor,50 GP,Uncommon, 
+Enchanted Module I,1,0 lbs,Implant,Light Armor|High-Tech Armor,100 GP,Uncommon,Magic Adept
+Leather Armor,1,10 lbs,Armor,Light Armor,10 GP,Uncommon, 
+Living Armor,2,20 lbs,Armor,Light Armor,100 GP,Uncommon,Sentient|Amorphous
+Mage Robes,2,2 lbs,Armor,Magic Armor,50 GP,Uncommon,Magic Adept
+Ring Mail,5,40 lbs,Armor,Heavy Armor,30 GP,Uncommon,Stiff
+Scale Mail,3,45 lbs,Armor,Medium Armor,50 GP,Uncommon,Stiff
+Shield Module II,2,0 lbs,Implant,Light Armor|High-Tech Armor,30 GP,Uncommon, 
+Shield Module III,3,0 lbs,Implant,Medium Armor|High-Tech Armor,100 GP,Uncommon, 
+Spiked Armor,3,45 lbs,Armor,Medium Armor,75 GP,Uncommon,Stiff|Heavy(12)
+Studded Leather Armor,2,13 lbs,Armor,Light Armor,45 GP,Uncommon, 
+Symbiote Module A,1,0 lbs,Implant,Light Armor|High-Tech Armor,100 GP,Uncommon,Sentient|Amorphous
+Anti-Mage Armor,3,4 lbs,Armor,Light Armor,100 GP,Rare,Resistant(3)
+Assassin's Garb,4,10 lbs,Armor,Medium Armor,500 GP,Rare,Cloaked|Lucky
+Aura Module IV,1,0 lbs,Implant,Medium Armor|High-Tech Armor,200 GP,Rare,Resistant(4)
+Breastplate,3,20 lbs,Armor,Medium Armor,400 GP,Rare, 
+Chain Mail,6,55 lbs,Armor,Heavy Armor,75 GP,Rare,Stiff|Heavy(13)
+Enchanted Module II,3,0 lbs,Implant,Light Armor|High-Tech Armor,500 GP,Rare,Magic Adept
+Halfplate,4,40 lbs,Armor,Medium Armor,750 GP,Rare,Stiff|Heavy(13)
+Mage Armor,4,10 lbs,Armor,Magic Armor,500 GP,Rare,Magic Adept
+Overcharge Module,-2,0 lbs,Implant,Light Armor|High-Tech Armor,100 GP,Rare,Reflect
+Shield Module IV,4,0 lbs,Implant,Medium Armor|High-Tech Armor,200 GP,Rare, 
+Splint,7,60 lbs,Armor,Heavy Armor,200 GP,Rare,Stiff|Heavy(15)
+Symbiote Module B,3,0 lbs,Implant,Medium Armor|High-Tech Armor,500 GP,Rare,Sentient|Amorphous
+Thief's Garb,2,6 lbs,Armor,Light Armor,100 GP,Rare,Cloaked
+Aura Module V,2,0 lbs,Implant,Medium Armor|High-Tech Armor,"1,000 GP",Very Rare,Resistant(5)
+Consecrated Armor,4,20 lbs,Armor,Medium Armor|Blessed Armor,100 PP,Very Rare,Blessed
+Craven Armor,4,20 lbs,Armor,Medium Armor|Cursed Armor,100 PP,Very Rare,Cursed
+Enchanted Module II,5,0 lbs,Implant,Light Armor|High-Tech Armor,"1,000 GP",Very Rare,Magic Adept
+Living Armor(Cursed),4,20 lbs,Armor,Light Armor|Cursed Armor,"1,000 GP",Very Rare,Sentient|Amorphous
+Living Armor(Purified),4,20 lbs,Armor,Light Armor|Blessed Armor,"1,000 GP",Very Rare,Sentient|Amorphous
+Plate,6,65 lbs,Armor,Heavy Armor,"1,500 GP",Very Rare,Stiff|Heavy(15)
+Shield Module V,5,0 lbs,Implant,Heavy Armor|High-Tech Armor,"1,000 GP",Very Rare, 
+Symbiote Module Ω,5,0 lbs,Implant,Heavy Armor|High-Tech Armor,"1,000 GP",Very Rare,Sentient|Amorphous
+Auric Module,6,0 lbs,Implant,Medium Armor|High-Tech Armor,Priceless,Legendary,Blessed
+Black Knight's Armor,8,35 lbs,Armor,Heavy Armor|Cursed Armor,Priceless,Legendary,Leech
+Dark Module,6,0 lbs,Implant,Medium Armor|High-Tech Armor,Priceless,Legendary,Cursed
+Grand Paladin's Armor,8,35 lbs,Armor,Heavy Armor|Blessed Armor,Priceless,Legendary,Reflect
+Moonsilver Garb,5,12 lbs,Armor,Light Armor|Magic Armor,Priceless,Legendary,Cloaked|Resistant(5)
+Titan Armor,7,65 lbs,Armor,Heavy Armor,Priceless,Legendary,Extra|Attack
+Titan Module,6,0 lbs,Implant,Heavy Armor|High-Tech Armor,Priceless,Legendary,Extra|Attack
+Warmage Garb,5,15 lbs,Armor,Magic Armor,Priceless,Legendary,Magic Adept|Reflect|Resistant(6)
