@@ -21,7 +21,6 @@ public class BaseIO{
 
     public static void SaveFile(string fileName, List<string> saveData){
         System.IO.File.WriteAllLines(fileName, saveData);
-        AppData.ToCache(saveData);
     }
 
     public static bool CheckForFile(string filename){

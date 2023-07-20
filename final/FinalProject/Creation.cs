@@ -70,6 +70,7 @@ public class Creation{
         _rawData.Add($"character_level,{_level}");
         BaseIO.SaveFile($"{_name}.sav", _rawData);
         AppData.SaveAppData($"{_name}.sav");
+        AppData.ToCache(_rawData);
     }
 
     private List<int> CalculateAbilityScores(List<int> scores, string race, List<int> classFeats, List<string> otherFeats, List<string> modifiers){
