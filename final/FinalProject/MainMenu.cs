@@ -4,8 +4,10 @@ public class MainMenu : Menu{
 
     public MainMenu() : base
     ("Main Menu", new List<string> {
-        "Display a Character",
+        "Create a Character",
+        "Display Loaded Character",
         "Save",
         "Load",
-    }, "Please select an option"){}
+        "Quit",
+    }, "Please select an option: ", 5){}
 }

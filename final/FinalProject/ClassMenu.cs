@@ -3,8 +3,7 @@ using System;
 public class ClassMenu : Menu{
 
     public ClassMenu() : base
-    ("Class Menu", new List<string> {
-        "abcd",
-        "defg",
-    }, "hijk"){}
+    ("Under Construction", new List<string> {
+        "Exit.",
+    }, "Please select an option: ", 1){}
 }

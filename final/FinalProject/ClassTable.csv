@@ -1,0 +1,15 @@
+﻿Artificer,,,TRUE,TRUE,,,,,,6,8,0,15,0,15,0,0,0,0,"Light Armor|Medium Armor|Magic Armor|Shields,",Simple Weapons|Magic Weapons|,Thieves' Tools|Tinker's tools|Artisan's Tools,,Intelligence
+Barbarian,,,TRUE,,,,Bludgeoning|,,Psychic|Charmed|,8,12,0,45,0,45,15,0,0,0,"Light Armor|Medium Armor|Shields,",Simple Weapons|Martial Weapons|,,,Strength
+Bard,,TRUE,,,,TRUE,,Charmed|,Deafened|,6,8,0,30,0,30,10,0,0,0,Light Armor|Magic Armor|,Simple Weapons|Magic Weapons|Hand Crossbows|Longswords|Rapiers|Shortswords|,Musical Instruments,,Charisma
+Blood_Hunter,,TRUE,,TRUE,,,Necrotic|,,,7,10,0,30,0,30,5,0,0,0,"Light Armor|Medium Armor|Shields,",Simple Weapons|Martial Weapons|Firearms|,Alchemist's Supplies,,Intelligence
+Cleric,,,,,TRUE,TRUE,Radiant|,,Necrotic|,6,8,0,30,0,30,0,0,0,0,"Light Armor|Medium Armor|Magic Armor|Shields,",Simple Weapons|,,,Wisdom
+Druid,,,,TRUE,TRUE,,,,Fire|,6,8,0,25,0,30,0,0,0,0,"Light Armor|Medium Armor|Magic Armor|Shields,",Magic Weapons|Clubs|Daggers|Darts|Javelins|Maces|Quarterstaffs|Scimitars|Sickles|Slings|Spears|,Herbalism Kit,Druidic,Wisdom
+Fighter,TRUE,,TRUE,,,,,,Charmed|,7,10,0,40,0,40,5,0,0,0,"Light Armor|Medium Armor|Heavy Armor|Shields,",Simple Weapons|Martial Weapons|,,,Strength
+Gunslinger,,TRUE,TRUE,,,,Thunder|Deafened|,,,6,8,0,45,0,30,0,0,0,0,"Light Armor|Medium Armor,",Firearms|Simple Weapons|Martial Weapons|,Tinker's Tools,,Dexterity
+Monk,TRUE,TRUE,,,,,Psychic|Blinded|,,,10,8,0,60,15,60,30,20,0,0,,Simple Weapons|Shortswords|,Artisan's Tools|Musical Instruments,,Dexterity
+Paladin,,,,,TRUE,TRUE,Radiant|,,Necrotic|,7,10,0,30,0,30,0,0,0,0,"Light Armor|Medium Armor|Heavy Armor|Magic Armor|Shields,",Simple Weapons|Martial Weapons|Magic Weapons|,,,Charisma
+Ranger,TRUE,TRUE,,,,,,,,7,10,0,60,0,45,0,0,30,15,"Light Armor|Medium Armor|Shields,",Simple Weapons|Martial Weapons|,,,Wisdom
+Rogue,,TRUE,,TRUE,,,Charmed|Poisoned|,,,6,8,0,45,0,30,10,0,30,0,"Light Armor,",Simple Weapons|Hand Crossbows|Longswords|Rapiers|Shortswords|,Thieves' Tools,Thieves' Cant,Intelligence
+Sorcerer,,,TRUE,,,TRUE,,,,5,6,0,20,0,20,0,0,0,0,Magic Armor|,Magic Weapons|Daggers|Darts|Slings|Quarterstaffs|Light Crossbows|,,,Charisma
+Warlock,,,,,TRUE,TRUE,Necrotic|Charmed| ,,Radiant|,6,8,0,20,0,20,0,0,0,0,Light Armor|Magic Armor|,Simple Weapons|Magic Weapons|,,,Charisma
+Wizard,,,,TRUE,TRUE,,,,,6,8,0,20,0,20,0,0,0,0,Magic Armor|,Magic Weapons|Daggers|Darts|Slings|Quarterstaffs|Light Crossbows|,,,Intelligence

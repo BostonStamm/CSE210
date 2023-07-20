@@ -1,0 +1,91 @@
+﻿"Potion, Healing",--,2d4+2,Recovery,.5 lbs,Potion,Alchemical,50 GP,Common,
+"Potion, Climbing",--,--,Enhancement,.5 lbs,Potion,Alchemical,50 GP,Common,Add walking speed to climbing speed for 1 hour.
+Milk,--,6,Recovery,.5 lbs,Potion,Caught,1 SP,Common,
+Narcotic(1),--,1d4+1,Healing,.1 lbs,Potion,Alchemical,1 GP,Common,Addictive substance|(DC13) Wis save or take 1d4+1 Psychic damage|Repeat until successful or until taken again.
+Alchemical Grenade(Burn),Fi,3d6,Damaging,1 lbs,Thrown,Alchemical,1 GP,Common,Ranged(30/60)|Blast(30)|
+Alchemical Grenade(Freeze),Co,3d6,Damaging,1 lbs,Thrown,Alchemical,1 GP,Common,Ranged(30/60)|Blast(30)|
+Alchemical Grenade(Shock),Li,3d6,Damaging,1 lbs,Thrown,Alchemical,1 GP,Common,Ranged(30/60)|Blast(30)|
+Alchemical Grenade(Acidic),Ac,3d6,Damaging,1 lbs,Thrown,Alchemical,1 GP,Common,Ranged(30/60)|Blast(30)|
+Alchemical Grenade(Toxic),Po,3d6,Damaging,1 lbs,Thrown,Alchemical,1 GP,Common,Ranged(30/60)|Blast(30)|
+Alchemical Grenade(Boom),Th,3d6,Damaging,1 lbs,Thrown,Alchemical,1 GP,Common,Ranged(30/60)|Blast(30)|
+Holy Water,Ra,2d6,Damaging,1 lbs,Thrown,Magical,2 GP,Common,Ranged(30/60)|Double damage to undead.
+"Potion, Healing(Greater)",--,4d4+4,Recovery,.5 lbs,Potion,Alchemical,100 GP,Uncommon,
+"Potion, Animal Friendship",--,--,Spell,.5 lbs,Potion,Alchemical,100 GP,Uncommon,Cast Animal Friendship (DC13) for 1 hour.
+"Potion, Growth",--,--,Enhancement,.5 lbs,Potion,Alchemical,100 GP,Uncommon,Double dize for 1d4 hours.
+"Potion, Poison",Po,3d6,Damaging,.5 lbs,Potion,Alchemical,100 GP,Uncommon,Sustained poison|(DC13) Con save to reduce poison damage die each turn.
+"Potion, Resistance",--,--,Enhancement,.5 lbs,Potion,Alchemical,100 GP,Uncommon,Gain Resistance for 1 hour for 1 damage type.
+"Potion, Water Breathing",--,--,Enhancement,.5 lbs,Potion,Alchemical,100 GP,Uncommon,Breathe underwater for 1 hour.
+"Potion, Sedative",--,--,Effective,.5 lbs,Potion,Alchemical,100 GP,Uncommon,(DC13) Con save to resist the urge to sleep.
+"Potion, Vulnerability",--,--,Effective,.5 lbs,Potion,Alchemical,100 GP,Uncommon,Gain Vulnerability for 1 hour for 1 damage type.
+Dragon's Breath (Black),Ac,4d6,Damaging,1 lbs,Thrown,Caught,100 GP,Uncommon,Ranged(30/60)|Blast(30)|
+Dragon's Breath (Blue),Li,4d6,Damaging,1 lbs,Thrown,Caught,100 GP,Uncommon,Ranged(30/60)|Blast(30)|
+Dragon's Breath (Brown),Fi,4d6,Damaging,1 lbs,Thrown,Caught,100 GP,Uncommon,Ranged(30/60)|Blast(30)|
+Dragon's Breath (Green),Po,4d6,Damaging,1 lbs,Thrown,Caught,100 GP,Uncommon,Ranged(30/60)|Blast(30)|
+Dragon's Breath (Grey),Co,4d6,Damaging,1 lbs,Thrown,Caught,100 GP,Uncommon,Ranged(30/60)|Blast(30)|
+Dragon's Breath (Magenta),Th,4d6,Damaging,1 lbs,Thrown,Caught,100 GP,Uncommon,Ranged(30/60)|Blast(30)|
+Dragon's Breath (Orange),Po,6d6,Damaging,1 lbs,Thrown,Caught,150 GP,Uncommon,Ranged(30/60)|Blast(30)|
+Dragon's Breath (Pink),Co,6d6,Damaging,1 lbs,Thrown,Caught,150 GP,Uncommon,Ranged(30/60)|Blast(30)|
+Dragon's Breath (Purple),Ac,6d6,Damaging,1 lbs,Thrown,Caught,150 GP,Uncommon,Ranged(30/60)|Blast(30)|
+Dragon's Breath (Red),Fi,6d6,Damaging,1 lbs,Thrown,Caught,150 GP,Uncommon,Ranged(30/60)|Blast(30)|
+Dragon's Breath (White),Th,6d6,Damaging,1 lbs,Thrown,Caught,150 GP,Uncommon,Ranged(30/60)|Blast(30)|
+Dragon's Breath (Yellow),Li,6d6,Damaging,1 lbs,Thrown,Caught,150 GP,Uncommon,Ranged(30/60)|Blast(30)|
+"Splash Potion, Poison",Po,3d6,Damaging,.5 lbs,Potion,Alchemical,100 GP,Uncommon,Ranged(30/60)|Blast(30)|Sustained poison|(DC13) Con save to reduce poison damage die each turn.
+"Splash Potion, Sedative",--,--,Effective,.5 lbs,Potion,Alchemical,100 GP,Uncommon,Ranged(30/60)|Blast(30)|(DC13) Con save to resist the urge to sleep.
+"Splash Potion, Vulnerability",--,--,Effective,.5 lbs,Potion,Alchemical,100 GP,Uncommon,Ranged(30/60)|Blast(30)|Gain Vulnerability for 1 hour for 1 damage type.
+"Splash Potion, Harming",Ne,3d6,Damaging,.5 lbs,Potion,Alchemical,100 GP,Uncommon,Ranged(30/60)|Blast(30)|
+Narcotic(2),--,2d4+2,Healing,.1 lbs,Potion,Alchemical,5 GP,Uncommon,Addictive substance|(DC14) Wis save or take 2d4+2 Psychic damage|Repeat until successful or until taken again.
+Narcotic(3),--,3d4+4,Healing,.1 lbs,Potion,Alchemical,10GP,Uncommon,Addictive substance|(DC15) Wis save or take 3d4+4 Psychic damage|Repeat until successful or until taken again.
+"Potion, Healing(Superior)",--,8d4+8,Recovery,.5 lbs,Potion,Alchemical,150 GP,Rare,
+"Potion, Clairvoyance",--,--,Spell,.5 lbs,Potion,Alchemical,150 GP,Rare,Cast Clairvoyance.
+"Potion, Diminution",--,--,Enhancement,.5 lbs,Potion,Alchemical,150 GP,Rare,Halve size for 1d4 hours.
+"Potion, Mind Reading",--,--,Spell,.5 lbs,Potion,Alchemical,150 GP,Rare,Cast Detect Thoughts(DC13).
+"Potion, Steelskin",--,--,Enhancement,.5 lbs,Potion,Alchemical,150 GP,Rare,+2 AC for 1 hour.
+"Potion, Lucky",--,--,Enhancement,.5 lbs,Potion,Alchemical,150 GP,Rare,Criticals are rolled at 19-20.
+Dragon's Breath(Adamantine),Fo,10d6,Damaging,1 lbs,Thrown,Caught,250 GP,Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Bronze),Li,8d6,Damaging,1 lbs,Thrown,Caught,200 GP,Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Brass),Fi,8d6,Damaging,1 lbs,Thrown,Caught,200 GP,Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Copper),Ac,8d6,Damaging,1 lbs,Thrown,Caught,200 GP,Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Silver),Co,8d6,Damaging,1 lbs,Thrown,Caught,200 GP,Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Steel),Th,8d6,Damaging,1 lbs,Thrown,Caught,200 GP,Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Lead),Po,8d6,Damaging,1 lbs,Thrown,Caught,200 GP,Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Mercury),Po,10d6,Damaging,1 lbs,Thrown,Caught,250 GP,Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Orium),Ac,10d6,Damaging,1 lbs,Thrown,Caught,250 GP,Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Gold),Fi,10d6,Damaging,1 lbs,Thrown,Caught,250 GP,Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Iron),Li,10d6,Damaging,1 lbs,Thrown,Caught,250 GP,Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Cobalt),Co,10d6,Damaging,1 lbs,Thrown,Caught,250 GP,Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Platinum),Th,10d6,Damaging,1 lbs,Thrown,Caught,250 GP,Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Mithril),Ra,8d6,Damaging,1 lbs,Thrown,Caught,250 GP,Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Zombie),Ne,8d6,Damaging,1 lbs,Thrown,Caught,250 GP,Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Brain),Ps,8d6,Damaging,1 lbs,Thrown,Caught,250 GP,Rare,Ranged(30/60)|Blast(30)|
+"Grenade, Incendiary",Fi,2d6,Damaging,1 lbs,Thrown,Modern Weapon,4 GP,Rare,Ranged(30/60)|Blast(30)|
+"Grenade, Cryonic",Co,2d6,Damaging,1 lbs,Thrown,Modern Weapon,4 GP,Rare,Ranged(30/60)|Blast(30)|
+"Grenade, Ion",Li,2d6,Damaging,1 lbs,Thrown,Modern Weapon,4 GP,Rare,Ranged(30/60)|Blast(30)|
+"Grenade, Gas",Po,2d6,Damaging,1 lbs,Thrown,Modern Weapon,4 GP,Rare,Ranged(30/60)|Blast(30)|
+"Grenade, Sonic",Th,2d6,Damaging,1 lbs,Thrown,Modern Weapon,4 GP,Rare,Ranged(30/60)|Blast(30)|
+"Grenade, Flash",Ra,2d6,Damaging,1 lbs,Thrown,Modern Weapon,4 GP,Rare,Ranged(30/60)|Blast(30)|
+"Grenade, Acid",Ac,2d6,Damaging,1 lbs,Thrown,Modern Weapon,4 GP,Rare,Ranged(30/60)|Blast(30)|
+Narcotic(4),--,4d4+8,Healing,.1 lbs,Potion,Alchemical,50 GP,Rare,Addictive substance|(DC16) Wis save or take 4d4+8 Psychic damage|Repeat until successful or until taken again.
+Narcotic(5),--,5d4+16,Healing,.1 lbs,Potion,Alchemical,100 GP,Rare,Addictive substance|(DC17) Wis save or take 5d4+16 Psychic damage|Repeat until successful or until taken again.
+Spell Scroll(Fireball),--,--,Spell,1 lbs,Used,Magical,50 GP,Rare,Cast(Fireball)
+Spell Scroll(Electroball),--,--,Spell,1 lbs,Used,Magical,50 GP,Rare,Cast(Electroball)
+Spell Scroll(Blastwave),--,--,Spell,1 lbs,Used,Magical,50 GP,Rare,Cast(Blastwave)
+Spell Scroll(Frostwave),--,--,Spell,1 lbs,Used,Magical,50 GP,Rare,Cast(Frostwave)
+Spell Scroll(Sunburst),--,--,Spell,1 lbs,Used,Magical,50 GP,Rare,Cast(Sunburst)
+Spell Scroll(Explosion),--,--,Spell,1 lbs,Used,Magical,50 GP,Rare,Cast(Explosion)
+"Potion, Healing(Supreme)",--,10d4+20,Recovery,.5 lbs,Potion,Alchemical,200 GP,Very Rare,
+"Potion, Flying",--,--,Enhancement,.5 lbs,Potion,Alchemical,200 GP,Very Rare,Add walking speed to flying speed for 1 hour|You can float.
+"Potion, Invisibility",--,--,Enhancement,.5 lbs,Potion,Alchemical,200 GP,Very Rare,Invisibility for 1 hour.
+"Potion, Haste",--,--,Spell,.5 lbs,Potion,Alchemical,200 GP,Very Rare,Cast Haste for 1 minute.
+"Potion, Vitality",--,--,Recovery,.5 lbs,Potion,Alchemical,200 GP,Very Rare,Removes all negative status effects.
+"Potion, Chaos",--,--,Effective,.5 lbs,Potion,Alchemical,200 GP,Very Rare,Roll d20 for effect.
+Dragon's Breath(Amethyst),Ac,12d6,Damaging,1 lbs,Thrown,Caught,300 GP,Very Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Emerald),Po,12d6,Damaging,1 lbs,Thrown,Caught,300 GP,Very Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Sapphire),Co,12d6,Damaging,1 lbs,Thrown,Caught,300 GP,Very Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Topaz),Li,12d6,Damaging,1 lbs,Thrown,Caught,300 GP,Very Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Diamond),Ra,15d6,Damaging,1 lbs,Thrown,Caught,400 GP,Very Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Onyx),Ne,15d6,Damaging,1 lbs,Thrown,Caught,400 GP,Very Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Ruby),Fi,12d6,Damaging,1 lbs,Thrown,Caught,300 GP,Very Rare,Ranged(30/60)|Blast(30)|
+Dragon's Breath(Crystal),Th,12d6,Damaging,1 lbs,Thrown,Caught,300 GP,Very Rare,Ranged(30/60)|Blast(30)|
+"Splash Potion, Chaos",--,--,Effective,.5 lbs,Potion,Alchemical,200 GP,Very Rare,Ranged(30/60)|Blast(30)|Roll d20 for effect.
+Narcotic(6),--,6d4+32,Healing,.1 lbs,Potion,Alchemical,500 GP,Very Rare,Addictive substance|(DC18) Wis save or take 6d4+32 Psychic damage|Repeat until successful or until taken again.
+Dragon's Breath (Azure),--,Instant Death,Damaging,1 lbs,Thrown,Caught,Priceless,Legendary,Ranged(30/60)|Blast(30)|(DC20) Con save to prevent annihilation.

@@ -1,0 +1,79 @@
+﻿"Arrow, Crafted",Pi,--d4,Bow,,.2 lbs,Arrow: ,Simple Weapon. ,2 CP ,Common
+"Arrow, Iron",Pi,--d6,Bow,,1 lbs,Arrow: ,Simple Weapon. ,2 SP ,Common
+"Bolt, Crafted",Pi,--d2,Crossbow,,.1 lbs,Bolt: ,Simple Weapon. ,1 CP ,Common
+"Bolt, Iron",Pi,--d4,Crossbow,,.5 lbs,Bolt: ,Simple Weapon. ,1 SP ,Common
+Gasoline,--,--,Machines,,.1 lbs,Fuel: ,,1 SP ,Common
+Crafted .9mm,Pi,--d2,Pistol,,.02 lbs,Round: ,Modern Weapon. ,1 CP ,Common
+Crafted .22mm,Pi,--d4,Rifle,,.02 lbs,Round: ,Modern Weapon. ,2 CP ,Common
+Crafted Shell,Pi,--d6,Shotgun,,.08 lbs,Round: ,Modern Weapon. ,2 CP ,Common
+.9mm Round,Pi,--d4,Pistol,,.02 lbs,Round: ,Modern Weapon. ,1 SP ,Common
+.22mm Round,Pi,--d6,Rifle,,.05 lbs,Round: ,Modern Weapon. ,2 SP ,Common
+"Shell, Birdshot",Pi,--d8,Shotgun,,.1 lbs,Round: ,Modern Weapon. ,3 SP ,Common
+"Arrow, Steel",Pi,--d10,Bow,,2 lbs,Arrow: ,Simple Weapon. ,4 SP ,Uncommon
+"Arrow, Blunted",Bl,--d8,Bow,,1 lbs,Arrow: ,Simple Weapon. ,4 SP ,Uncommon
+"Arrow, Serrated",Sl,--d8,Bow,,1 lbs,Arrow: ,Simple Weapon. ,4 SP ,Uncommon
+"Bolt, Steel",Pi,--d8,Crossbow,,1 lbs,Bolt: ,Simple Weapon. ,2 SP ,Uncommon
+"Bolt, Serrated",Sl,--d6,Crossbow,,.5 lbs,Bolt: ,Simple Weapon. ,2 SP ,Uncommon
+"Bolt, Blunted",Bl,--d6,Crossbow,,.5 lbs,Bolt: ,Simple Weapon. ,2 SP ,Uncommon
+Power Cell,--,--,High-Tech Weapons,,.2 lbs,Fuel: ,High-Tech Weapons. ,1 GP ,Uncommon
+Propane Tank,--,--,Flamethrower,,5 lbs,Fuel: ,,10 GP ,Uncommon
+"Grenade, Fragmentation",Pi,5d6,Grenade Launcher,Blast(60)|Siege,1 lbs,Round: ,Modern Weapon. ,4 GP ,Uncommon
+.9mm Hollow-Point,Pi,--d8,Pistol,,.02 lbs,Round: ,Modern Weapon. ,2 SP ,Uncommon
+.22mm Hollow-Point,Pi,--d10,Rifle,,.05 lbs,Round: ,Modern Weapon. ,4 SP ,Uncommon
+Magnum Round,Pi,--d20,Magnum,,.05 lbs,Round: ,Modern Weapon. ,1 GP ,Uncommon
+.50mm Round,Pi,--d100,Heavy Rifle,Piercing(4),.1 lbs,Round: ,Modern Weapon. ,2 GP ,Uncommon
+"Shell, Buckshot",Pi,--d12,Shotgun,,.2 lbs,Round: ,Modern Weapon. ,6 SP ,Uncommon
+"Arrow, Fire",Fi,--d8,Bow,,1 lbs,Arrow: ,Simple Weapon. ,1 GP ,Rare
+"Arrow, Ice",Co,--d8,Bow,,1 lbs,Arrow: ,Simple Weapon. ,1 GP ,Rare
+"Arrow, Necrotic",Ne,--d8,Bow,,1 lbs,Arrow: ,Simple Weapon. ,1 GP ,Rare
+"Arrow, Radiant",Ra,--d8,Bow,,1 lbs,Arrow: ,Simple Weapon. ,1 GP ,Rare
+"Arrow, Lightning",Li,--d8,Bow,,1 lbs,Arrow: ,Simple Weapon. ,1 GP ,Rare
+"Arrow, Explosive",Fo,--d8,Bow,,1 lbs,Arrow: ,Simple Weapon. ,1 GP ,Rare
+"Arrow, Poison",Po,--d8,Bow,,1 lbs,Arrow: ,Simple Weapon. ,1 GP ,Rare
+"Arrow, Spectral",Ps,--d8,Bow,,1 lbs,Arrow: ,Simple Weapon. ,1 GP ,Rare
+"Arrow, Thunder",Th,--d8,Bow,,1 lbs,Arrow: ,Simple Weapon. ,1 GP ,Rare
+"Arrow, Acid",Ac,--d8,Bow,,1 lbs,Arrow: ,Simple Weapon. ,1 GP ,Rare
+"Bolt, Fire",Fi,--d6,Crossbow,,.5 lbs,Bolt: ,Simple Weapon. ,5 SP ,Rare
+"Bolt, Ice",Co,--d6,Crossbow,,.5 lbs,Bolt: ,Simple Weapon. ,5 SP ,Rare
+"Bolt, Necrotic",Ne,--d6,Crossbow,,.5 lbs,Bolt: ,Simple Weapon. ,5 SP ,Rare
+"Bolt, Radiant",Ra,--d6,Crossbow,,.5 lbs,Bolt: ,Simple Weapon. ,5 SP ,Rare
+"Bolt, Lightning",Li,--d6,Crossbow,,.5 lbs,Bolt: ,Simple Weapon. ,5 SP ,Rare
+"Bolt, Explosive",Fo,--d6,Crossbow,,.5 lbs,Bolt: ,Simple Weapon. ,5 SP ,Rare
+"Bolt, Poison",Po,--d6,Crossbow,,.5 lbs,Bolt: ,Simple Weapon. ,5 SP ,Rare
+"Bolt, Spectral",Ps,--d6,Crossbow,,.5 lbs,Bolt: ,Simple Weapon. ,5 SP ,Rare
+"Bolt, Thunder",Th,--d6,Crossbow,,.5 lbs,Bolt: ,Simple Weapon. ,5 SP ,Rare
+"Bolt, Acid",Ac,--d6,Crossbow,,.5 lbs,Bolt: ,Simple Weapon. ,5 SP ,Rare
+"Grenade, Incendiary",Fi,4d6,Grenade Launcher,Blast(30),1 lbs,Round: ,Modern Weapon. ,4 GP ,Rare
+"Grenade, Cryonic",Co,4d6,Grenade Launcher,Blast(30),1 lbs,Round: ,Modern Weapon. ,4 GP ,Rare
+"Grenade, Ion",Li,4d6,Grenade Launcher,Blast(30),1 lbs,Round: ,Modern Weapon. ,4 GP ,Rare
+"Grenade, Gas",Po,4d6,Grenade Launcher,Blast(30),1 lbs,Round: ,Modern Weapon. ,4 GP ,Rare
+"Grenade, Sonic",Th,2d6,Grenade Launcher,Blast(60)|Deafened,1 lbs,Round: ,Modern Weapon. ,4 GP ,Rare
+"Grenade, Flash",Ra,2d6,Grenade Launcher,Blast(60)|Blinded,1 lbs,Round: ,Modern Weapon. ,4 GP ,Rare
+"Grenade, Acid",Ac,4d6,Grenade Launcher,Blast(30),1 lbs,Round: ,Modern Weapon. ,4 GP ,Rare
+.9mm Incendiary,Fi,--d6,Pistol,,.02 lbs,Round: ,Modern Weapon. ,1 GP ,Rare
+.9mm Cryonic,Co,--d6,Pistol,,.02 lbs,Round: ,Modern Weapon. ,1 GP ,Rare
+.9mm Explosive,Fo,--d6,Pistol,,.02 lbs,Round: ,Modern Weapon. ,1 GP ,Rare
+.9mm Flechette(Ion),Li,--d6,Pistol,,.02 lbs,Round: ,Modern Weapon. ,1 GP ,Rare
+.9mm Flechette(Venom),Po,--d6,Pistol,,.02 lbs,Round: ,Modern Weapon. ,1 GP ,Rare
+.9mm Flechette(Viral),Ne,--d6,Pistol,,.02 lbs,Round: ,Modern Weapon. ,1 GP ,Rare
+.22mm Incendiary,Fi,--d8,Rifle,,.05 lbs,Round: ,Modern Weapon. ,2 GP ,Rare
+.22mm Cryonic,Co,--d8,Rifle,,.05 lbs,Round: ,Modern Weapon. ,2 GP ,Rare
+.22mm Explosive,Fo,--d8,Rifle,,.05 lbs,Round: ,Modern Weapon. ,2 GP ,Rare
+.22mm Flechette(Ion),Li,--d8,Rifle,,.05 lbs,Round: ,Modern Weapon. ,2 GP ,Rare
+.22mm Flechette(Venom),Po,--d8,Rifle,,.05 lbs,Round: ,Modern Weapon. ,2 GP ,Rare
+.22mm Flechette(Viral),Ne,--d8,Rifle,,.05 lbs,Round: ,Modern Weapon. ,2 GP ,Rare
+Magnum Round(Explosive),Fo,--d20,Magnum,,.05 lbs,Round: ,Modern Weapon. ,5 GP ,Rare
+"Shell, Incendiary",Fi,--d10,Shotgun,,.2 lbs,Round: ,Modern Weapon. ,3 GP ,Rare
+"Shell, Cryonic",Co,--d10,Shotgun,,.2 lbs,Round: ,Modern Weapon. ,3 GP ,Rare
+"Shell, Explosive",Fo,--d10,Shotgun,,.2 lbs,Round: ,Modern Weapon. ,3 GP ,Rare
+"Shell, Ion",Li,--d10,Shotgun,,.2 lbs,Round: ,Modern Weapon. ,3 GP ,Rare
+"Shell, Venom",Po,--d10,Shotgun,,.2 lbs,Round: ,Modern Weapon. ,3 GP ,Rare
+"Shell, Viral",Ne,--d10,Shotgun,,.2 lbs,Round: ,Modern Weapon. ,3 GP ,Rare
+"Slug, Steel",Bl,--d20,Slug Shotgun,,.2 lbs,Round: ,Modern Weapon. ,1 GP ,Rare
+"Slug, Explosive",Fo,--d20,Slug Shotgun,,.2 lbs,Round: ,Modern Weapon. ,5 GP ,Rare
+RPG,Fo,--d20,Rocket Launcher,Blast(60)|Siege,2 lbs,Round: ,Modern Weapon. ,10 GP ,Rare
+"Arrow, Seeker",Pi,--d10,Bow,Piercing(4),1 lbs,Arrow: ,Simple Weapon. ,5 GP ,Very Rare
+"Bolt, Seeker",Pi,--d8,Crossbow,Piercing(4),.5 lbs,Bolt: ,Simple Weapon. ,2 GP ,Very Rare
+"Grenade, Chlorine",Ne,5d6,Grenade Launcher,Blast(60),1 lbs,Round: ,Modern Weapon. ,20 GP ,Very Rare
+"Grenade, Petrification",Ps,6d6,Grenade Launcher,Blast(15)|Petrified,1 lbs,Round: ,Modern Weapon. ,200 GP,Legendary
+RPNW,Fo,5000,Rocket Launcher,Blast(3k)|Siege|Nuclear,5 lbs,Round: ,Modern Weapon. ,Priceless ,Legendary

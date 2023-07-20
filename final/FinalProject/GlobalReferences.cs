@@ -1,6 +1,8 @@
 using System;
 
-public static class GlobalReferences{
+static class GlobalReferences{
+    public static string ___appData___ = "AppData.csv";
+    public static string ___cache___ = "Cache.csv";
     public static int ___modStrength___ = 0;
     public static int ___modDexterity___ = 1;
     public static int ___modConstitution___ = 2;

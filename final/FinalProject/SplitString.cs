@@ -1,9 +1,10 @@
 using System;
 
-public class SplitString{
-    public SplitString(){}
+static class SplitString{
+    static SplitString(){}
 
-    public string[] SplitList(string toSplit, char delimiter){
-        return default;
+    public static string[] Split(string toSplit, char delimiter){
+        string[] splitString = toSplit.Split(delimiter);
+        return splitString;
     }
 }
